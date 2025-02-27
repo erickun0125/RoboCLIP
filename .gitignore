@@ -1,3 +1,9 @@
+gifs*
+kitchen_alt*
+Metaworld*
+mjrl*
+S3D_HowTo100M*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
