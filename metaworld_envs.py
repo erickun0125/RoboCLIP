@@ -37,7 +37,7 @@ from Metaworld import metaworld
 from Metaworld.metaworld.envs import (ALL_V2_ENVIRONMENTS_GOAL_OBSERVABLE,
                             ALL_V2_ENVIRONMENTS_GOAL_HIDDEN)
 
-from kitchen_env_wrappers import readGif
+from kitchen_env_wrappers import readGif, KitchenEnvSparseOriginalReward
 from matplotlib import animation
 import matplotlib.pyplot as plt
 
