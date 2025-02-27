@@ -33,8 +33,8 @@ from memory_profiler import profile
 import argparse
 from stable_baselines3.common.callbacks import EvalCallback
 
-import metaworld
-from metaworld.envs import (ALL_V2_ENVIRONMENTS_GOAL_OBSERVABLE,
+from Metaworld import metaworld
+from Metaworld.metaworld.envs import (ALL_V2_ENVIRONMENTS_GOAL_OBSERVABLE,
                             ALL_V2_ENVIRONMENTS_GOAL_HIDDEN)
 
 from kitchen_env_wrappers import readGif
