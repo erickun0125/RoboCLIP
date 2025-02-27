@@ -3,7 +3,8 @@ kitchen_alt*
 Metaworld*
 mjrl*
 S3D_HowTo100M*
-
+s3d_howto100m.pth
+s3d_dict.npy
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
